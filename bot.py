@@ -5,7 +5,7 @@ import telebot
 from telebot import types
 from random import randint, choice
 
-bot = telebot.TeleBot("956323132:AAEH1-KFy6IHd7b9oE0ukmMzwtMtcVxIS1I")
+bot = telebot.TeleBot("956323132:AAEbmCnW3ubPWutFUEvEMAq76R86Vo7XTZw")
 
 ##
 def gen_markup():
